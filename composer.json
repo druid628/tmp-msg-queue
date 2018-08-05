@@ -1,0 +1,17 @@
+{
+    "name": "peachpope/msgqueue",
+    "description": "Test Message Queue",
+    "type": "library",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Micah Breedlove",
+            "email": "druid628@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "PeacHPope\\MessageQueue\\": "src/" }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
