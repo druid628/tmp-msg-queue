@@ -4,7 +4,7 @@ namespace PeacHPope\MessageQueue\Worker;
 
 
 /**
- * @author Micah Breedlove <micah.breedlove@iostudio.com>
+ * @author Micah Breedlove <>
  */
 interface WorkerInterface
 {

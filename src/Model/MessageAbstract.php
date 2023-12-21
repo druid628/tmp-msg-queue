@@ -9,7 +9,7 @@ use PeacHPope\MessageQueue\Constants;
  *
  * @abstract
  * @copyright 2018-05-14
- * @author Micah Breedlove <micah.breedlove@iostudio.com>
+ * @author Micah Breedlove <druid628@gmail.com>
  */
 abstract class MessageAbstract implements MessageInterface
 {

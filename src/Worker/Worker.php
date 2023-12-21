@@ -3,7 +3,7 @@
 namespace PeacHPope\MessageQueue\Worker;
 
 /**
- * @author Micah Breedlove <micah.breedlove@iostudio.com>
+ * @author Micah Breedlove <druid628@gmail.com>
  */
 class Worker
 {
